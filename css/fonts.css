@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Palette Mosaic';
+    src: url('../fonts/PaletteMosaic-Regular.eot');
+    src: url('../fonts/PaletteMosaic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PaletteMosaic-Regular.woff2') format('woff2'),
+        url('../fonts/PaletteMosaic-Regular.woff') format('woff'),
+        url('../fonts/PaletteMosaic-Regular.ttf') format('truetype'),
+        url('../fonts/PaletteMosaic-Regular.svg#PaletteMosaic-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

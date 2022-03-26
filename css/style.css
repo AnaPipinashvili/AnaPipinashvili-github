@@ -1,0 +1,123 @@
+/*HEADER*/
+.logo{
+	margin-left: 20px;
+	vertical-align: middle;
+}
+.navigation{
+	display: inline-block;
+
+}
+.nav-li{
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.home{
+margin: 0 27px 0 150px;
+}
+.discovery{
+	margin-right: 22px;
+}
+.photos{
+	margin-right: 22px;
+}
+.contact{
+	margin-right: 40px;
+}
+.text-li{
+	font-size:11px ;
+	color: #343638;
+	font-family: 'Palette Mosaic';
+}
+
+/*SECTION I*/
+.section-1{
+	width: 1172px;
+	height: 353px;
+	margin: 0 auto;
+	background:#F6F8F9 ;
+	margin-top: 25px;
+
+}
+
+h2{
+	margin-top: 3px ;
+	font-family: 'Ramaraja', serif;
+	font-size: 24px;
+	color: #202124;
+	font-weight: bold
+
+}
+.div-1{
+	width: 360px;
+	height: 351px;
+	background-color:#ffffff;
+	display: inline-block;
+	
+}
+.img-wraper{
+	position: relative;
+}
+.text-img{
+position: absolute;
+font-family: 'Ramaraja', serif;
+color: #ffffff;
+font-size: 16px;
+top: 28px;
+left: 40px;
+}
+.paragraph{
+	font-family: 'Ramaraja', serif;
+	color: #A6ADB4;
+	font-size: 16px;
+	margin: 66px 40px;
+}
+.middle{
+	margin: 0 40px;
+}
+
+/*SECTION 2*/
+.section-2{
+	width: 1214px;
+	height: 960px;
+	margin: 0 auto;
+	background:#F6F8F9 ;
+	margin-top: 58px;
+}
+.right-block{
+	display: inline-block;
+	margin-right: 40px;
+	width: 770px ;
+	height: 900px;
+}
+.right-div{
+	position: relative;
+
+}
+.text-img2{
+	position: absolute;
+	font-family: 'Ramaraja', serif;
+	color: #ffffff;
+	font-size: 16px;
+	bottom: 22px;
+	right: 22px;
+}
+.top{
+	margin: 40px 0;
+}
+.left-block{
+	display: inline-block;
+	width:391px ;
+	height: 896px;
+}
+.left-div{
+	position: relative;
+}
+.left-top{
+	margin-bottom: 102px;
+
+}
+.left-bottom{
+	margin: 102px 0;
+
+}
